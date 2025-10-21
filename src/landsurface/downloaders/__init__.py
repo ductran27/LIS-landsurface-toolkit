@@ -8,11 +8,9 @@ This module provides classes for downloading data from:
 """
 
 from landsurface.downloaders.modis import MODISDownloader
-from landsurface.downloaders.smap import SMAPDownloader
 from landsurface.downloaders.base import BaseDownloader
 
 __all__ = [
     'BaseDownloader',
     'MODISDownloader',
-    'SMAPDownloader',
 ]
