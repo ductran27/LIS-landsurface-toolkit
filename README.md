@@ -128,7 +128,7 @@ Registration required at https://cds.climate.copernicus.eu
 
 ## Documentation
 
-Full documentation is available at https://landsurface-toolkit.readthedocs.io
+Full documentation is available in the `docs/` directory and through inline code documentation.
 
 ## Examples
 
