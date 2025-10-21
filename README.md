@@ -126,10 +126,6 @@ Registration required at https://urs.earthdata.nasa.gov
 
 Registration required at https://cds.climate.copernicus.eu
 
-## Documentation
-
-Full documentation is available in the `docs/` directory and through inline code documentation.
-
 ## Examples
 
 See the `examples/` directory for complete working examples:
