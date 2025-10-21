@@ -1,6 +1,22 @@
+```
+ _                    _  ____              __                   
+| |                  | |/ ___| _   _ _ __ / _| __ _  ___ ___   
+| |     __ _ _ __  __| |\___ \| | | | '__| |_ / _` |/ __/ _ \  
+| |___ / _` | '_ \/ _` | ___) | |_| | |  |  _| (_| | (_|  __/  
+|_____\__,_| .__/\__,_||____/ \__,_|_|  |_|  \__,_|\___\___|  
+           |_|                                                  
+           _____ ___   ___  _     _  ___ _____                 
+          |_   _/ _ \ / _ \| |   | |/ __|_   _|                
+            | || | | | | | | |   | | (__  | |                  
+            | || |_| | |_| | |___| |\__ \ | |                  
+            |_| \___/ \___/|_____|_||___/ |_|                  
+```
+
 # Land Surface Data Toolkit
 
 A Python-based system for acquiring, processing, and analyzing land surface data from satellite observations and reanalysis products.
+
+*This project is inspired by the [Land Information System Framework (LISF)](https://github.com/NASA-LIS/LISF) by NASA.*
 
 ## Overview
 
