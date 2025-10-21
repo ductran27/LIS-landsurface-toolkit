@@ -47,8 +47,8 @@ The Land Surface Data Toolkit provides tools for working with geospatial data co
 ### Install from source
 
 ```bash
-git clone https://github.com/yourusername/landsurface-toolkit.git
-cd landsurface-toolkit
+git clone https://github.com/ductran27/LIS-landsurface-toolkit.git
+cd LIS-landsurface-toolkit
 pip install -e .
 ```
 
@@ -153,7 +153,7 @@ If you use this toolkit in your research, please cite:
 ```
 Land Surface Data Toolkit (2025). 
 A Python toolkit for land surface data processing.
-https://github.com/yourusername/landsurface-toolkit
+https://github.com/ductran27/LIS-landsurface-toolkit
 ```
 
 ## Acknowledgments
